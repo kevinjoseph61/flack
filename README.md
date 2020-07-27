@@ -1,6 +1,6 @@
 # Flack!
 
-## A Flask driven application what uses sockets to implement a real time clone of slack 
+## A Flask driven application that uses sockets to implement a real time clone of slack 
 
 - Flask+Slack=Flack!
 - This project was done in accordance with the specifications laid out in https://docs.cs50.net/web/2020/x/projects/2/project2.html for project 2 of CS50w (2018 version)
